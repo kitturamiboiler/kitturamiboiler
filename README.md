@@ -1,38 +1,41 @@
 <div align="center">
 
-# 안녕하세요, 문재민입니다 👋
-
-### Product Design · UI/UX · Frontend
-
-사용자의 흐름과 화면 상태를 정리하고,<br />
-Figma에서 설계한 UI를 실제 제품에서 작동하는 형태로 연결합니다.
-
-예쁘게 보이는 화면을 넘어,<br />
-**왜 이렇게 설계했는지 설명할 수 있는 UI**를 만드는 것을 좋아합니다.
+<img src="./assets/profile-header.svg" width="100%" alt="문재민 — Product Design, UI/UX, Frontend" />
 
 </div>
 
+## Profile
+
+**사용자의 행동에서 시작해, 설계 의도를 코드로 끝까지 연결하는 UI 설계자입니다.**
+
+[NHN Academy AIoT 3기](https://github.com/nhnacademy-aiot3) 과정에서 제품의 정보 구조와 화면을 설계하고, Figma의 규칙이 실제 프론트엔드에서도 같은 경험으로 작동하도록 구현하고 있습니다.
+
+- 🧭 **Flow** · 사용자의 행동을 기준으로 정보 구조와 화면 우선순위를 설계합니다.
+- 🧩 **State** · 로딩·빈 값·오류·비활성까지 실제 제품의 상태로 다룹니다.
+- 🛠️ **Delivery** · Figma의 설계 규칙을 반응형 UI와 재사용 가능한 컴포넌트로 연결합니다.
+- 🧪 **Validation** · 접근성·Storybook·자동 테스트로 화면의 회귀 위험을 줄입니다.
+
 ---
 
-## About Me
-
-- 사용자의 행동을 기준으로 정보 구조와 화면 우선순위를 설계합니다.
-- 로딩·빈 값·오류·비활성과 같은 실제 제품의 상태를 함께 고려합니다.
-- 반응형 레이아웃과 접근성을 확인하고, Storybook과 자동 테스트로 회귀 위험을 줄입니다.
-- 디자인과 구현 사이의 제약을 이해하고 개발자와 구체적으로 협업합니다.
-
-## Featured Project
+## Featured Work
 
 ### OMAGOTCHI
 
-**출석과 학습 기록을 캐릭터 성장으로 연결하는 교육용 게임 서비스**
+> 출석과 학습 기록을 캐릭터 성장으로 연결하는 교육용 게임 서비스<br />
+> **8인 협업 · Home UX/UI · Responsive Frontend Rebuild**
 
-- 8인 팀 프로젝트에서 Home UX/UI와 반응형 리빌딩을 담당했습니다.
-- 분산된 PC·모바일 화면을 단일 `/home` 진입점으로 통합했습니다.
-- 출석 → 학습 → 기록 → 성장이 하나의 흐름으로 보이도록 정보 구조를 재설계했습니다.
-- Figma의 화면 규칙을 Storybook 패턴과 실제 View에 연결하고 상태별 회귀를 확인했습니다.
+**01 — One Home, One Flow**<br />
+분산되어 있던 PC·모바일 화면을 단일 `/home` 진입점으로 통합했습니다.
 
-[**View Frontend Repository →**](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-frontend)
+**02 — Growth as Information Architecture**<br />
+출석 → 학습 → 기록 → 성장이 하나의 경험으로 읽히도록 정보 구조와 화면 우선순위를 다시 설계했습니다.
+
+**03 — From Figma to Working UI**<br />
+Figma의 화면 규칙을 Storybook 패턴과 실제 View에 연결하고, 반응형·상태별 회귀를 확인했습니다.
+
+**Tools** · Figma · Aseprite · React · Storybook · Vitest
+
+[![Frontend Repository](https://img.shields.io/badge/Frontend_Repository-17342A?style=flat-square&logo=github&logoColor=white)](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-frontend)
 
 #### Frontend Contribution
 
@@ -47,6 +50,8 @@ Home UX/UI와 반응형 리빌딩을 중심으로 프론트엔드 구현에 기�
 </p>
 
 > GitHub contribution snapshot · 2026.09
+
+---
 
 ## Original Visual Assets
 
@@ -66,7 +71,9 @@ OMAGOTCHI의 **캐릭터·앱 아이콘·Dock·픽셀 UI 에셋**을<br />
 
 > OMAGOTCHI는 팀 프로젝트입니다. 위 내용은 제가 직접 제작한 시각 에셋의 범위를 의미하며, 해당 에셋의 재사용과 재배포는 사전 문의해 주세요.
 
-## Skills
+---
+
+## Toolbox
 
 **Product Design**<br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -101,16 +108,22 @@ OMAGOTCHI의 **캐릭터·앱 아이콘·Dock·픽셀 UI 에셋**을<br />
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-## Working Principles
+---
 
-```text
-Problem Definition
-      ↓
-User Flow & Information Architecture
-      ↓
-UI System & Responsive Design
-      ↓
-Implementation Review & Validation
-```
+## GitHub Activity
 
-> 새 화면을 계속 더하기보다, 문제를 만든 기준을 먼저 바꾸려고 합니다.
+<div align="center">
+
+<a href="https://github.com/kitturamiboiler">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitturamiboiler&theme=vue"
+    width="100%"
+    alt="kitturamiboiler GitHub contribution activity"
+  />
+</a>
+
+</div>
+
+---
+
+> **Working Principle** · 새 화면을 계속 더하기보다, 문제를 만든 기준을 먼저 바꾸려고 합니다.

@@ -1,0 +1,86 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>문재민 Product Designer and UI Engineer</title>
+  <desc>사용자 흐름에서 화면 상태, UI 구현, 검증으로 이어지는 작업 방식을 표현한 프로필 헤더</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="24" x2="1160" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B2B22"/>
+      <stop offset="1" stop-color="#123D30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7AF0B3"/>
+      <stop offset="1" stop-color="#34C980"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#B8E8CD" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2C604C" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="url(#grid)"/>
+
+  <rect x="50" y="52" width="6" height="256" rx="3" fill="url(#accent)"/>
+  <rect x="84" y="52" width="390" height="30" rx="15" fill="#E9FFF3" fill-opacity="0.1" stroke="#83E9B5" stroke-opacity="0.25"/>
+  <circle cx="101" cy="67" r="5" fill="#63E9A4"/>
+  <text x="116" y="72" fill="#A9F2CB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="14" font-weight="700" letter-spacing="2">PRODUCT DESIGN × UI ENGINEERING</text>
+
+  <text x="82" y="145" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="58" font-weight="800">문재민</text>
+  <text x="292" y="143" fill="#74DDA7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="3">MOON JAEMIN</text>
+
+  <text x="84" y="191" fill="#F0FBF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="650">Design the flow. Build every state.</text>
+  <text x="84" y="224" fill="#B7D4C5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="17">사용자의 흐름을 설계하고, 화면의 모든 상태를 실제 제품으로 연결합니다.</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700">
+    <rect x="84" y="259" width="198" height="38" rx="8" fill="#173F32" stroke="#37775E"/>
+    <rect x="98" y="272" width="12" height="12" fill="#69E7A7"/>
+    <rect x="102" y="268" width="4" height="20" fill="#69E7A7"/>
+    <text x="121" y="284" fill="#E9FFF3">NHN Academy AIoT 3기</text>
+
+    <rect x="294" y="259" width="142" height="38" rx="8" fill="#173F32" stroke="#37775E"/>
+    <text x="313" y="284" fill="#E9FFF3">FIGMA → REACT</text>
+
+    <rect x="448" y="259" width="206" height="38" rx="8" fill="#173F32" stroke="#37775E"/>
+    <text x="466" y="284" fill="#E9FFF3">RESPONSIVE · ACCESSIBLE</text>
+  </g>
+
+  <g>
+    <rect x="712" y="42" width="438" height="276" rx="20" fill="#F4FBF7"/>
+    <rect x="712" y="42" width="438" height="48" rx="20" fill="#E4F5EB"/>
+    <rect x="712" y="70" width="438" height="20" fill="#E4F5EB"/>
+    <circle cx="738" cy="66" r="5" fill="#F47B68"/>
+    <circle cx="756" cy="66" r="5" fill="#F4C65E"/>
+    <circle cx="774" cy="66" r="5" fill="#52CE8C"/>
+    <text x="1099" y="71" text-anchor="end" fill="#527060" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">DESIGN LOOP</text>
+
+    <path d="M770 146H1090" stroke="#B9D8C7" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1090 146L1077 138V154L1090 146Z" fill="#B9D8C7"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle">
+      <circle cx="780" cy="146" r="28" fill="#0F3428"/>
+      <text x="780" y="151" fill="#75E8AA" font-size="14" font-weight="800">01</text>
+      <text x="780" y="192" fill="#173B2E" font-size="12" font-weight="800" letter-spacing="1">FLOW</text>
+      <text x="780" y="210" fill="#6B8175" font-size="11">User path</text>
+
+      <circle cx="878" cy="146" r="28" fill="#15523D"/>
+      <text x="878" y="151" fill="#8CF0B9" font-size="14" font-weight="800">02</text>
+      <text x="878" y="192" fill="#173B2E" font-size="12" font-weight="800" letter-spacing="1">STATE</text>
+      <text x="878" y="210" fill="#6B8175" font-size="11">Every case</text>
+
+      <circle cx="976" cy="146" r="28" fill="#247A58"/>
+      <text x="976" y="151" fill="#E6FFF1" font-size="14" font-weight="800">03</text>
+      <text x="976" y="192" fill="#173B2E" font-size="12" font-weight="800" letter-spacing="1">UI</text>
+      <text x="976" y="210" fill="#6B8175" font-size="11">Real product</text>
+
+      <circle cx="1074" cy="146" r="28" fill="url(#accent)"/>
+      <path d="M1062 146L1070 154L1087 136" stroke="#0D3A2B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1074" y="192" fill="#173B2E" font-size="12" font-weight="800" letter-spacing="1">VERIFY</text>
+      <text x="1074" y="210" fill="#6B8175" font-size="11">Ship safely</text>
+    </g>
+
+    <rect x="752" y="240" width="358" height="46" rx="9" fill="#E8F7EF"/>
+    <rect x="768" y="253" width="20" height="20" fill="#32C77D"/>
+    <rect x="773" y="248" width="10" height="30" fill="#32C77D"/>
+    <text x="802" y="269" fill="#315545" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">WHY → SYSTEM → WORKING UI</text>
+  </g>
+</svg>
