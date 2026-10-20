@@ -1,19 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">문재민 MUN JAEMIN</title>
-  <desc id="desc">Java와 Spring 백엔드를 중심으로 프론트엔드와 UI를 구현합니다.</desc>
-  <rect x="1" y="1" width="1198" height="278" rx="20" fill="#F7F9FC" stroke="#E5EAF2"/>
-  <g font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
-    <text x="48" y="44" fill="#64748B" font-size="12" font-weight="600" letter-spacing="2.5">MUN JAEMIN</text>
-    <text x="45" y="109" fill="#18243B" font-size="48" font-weight="700">문재민</text>
-    <text x="48" y="154" fill="#42536B" font-size="20">백엔드를 중심으로, 프론트엔드와 UI도 만듭니다.</text>
-    <text x="48" y="185" fill="#738197" font-size="14">Java · Spring · JavaScript · React</text>
-    <path d="M48 213H1152" stroke="#E0E6EF"/>
-    <text x="48" y="246" fill="#536681" font-size="13">BACKEND / FRONTEND / UI</text>
-    <text x="1152" y="246" text-anchor="end" fill="#738197" font-size="13">kitturamiboiler</text>
-  </g>
-  <circle cx="1048" cy="102" r="62" stroke="#E2E8F3"/>
-  <circle cx="1048" cy="102" r="43" fill="#DDE6F7"/>
-  <circle cx="1067" cy="88" r="37" fill="#F7F9FC"/>
-  <circle cx="1093" cy="143" r="4" fill="#809AC9"/>
-  <circle cx="995" cy="66" r="2.5" fill="#A8B8D1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="180" viewBox="0 0 840 180" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">문재민 MUN JAEMIN</title><desc id="desc">Backend and Frontend</desc>
+<rect x="1" y="1" width="838" height="178" rx="18" fill="#F7F9FC" stroke="#E3E9F2"/>
+<g font-family="'Malgun Gothic','Segoe UI',sans-serif">
+<text x="32" y="65" fill="#18243B" font-size="44" font-weight="700">문재민</text>
+<text x="204" y="62" fill="#52627B" font-size="23" font-weight="500">MUN JAEMIN</text>
+<text x="34" y="126" fill="#405570" font-size="28" font-weight="500">Backend &amp; Frontend</text>
+</g>
+<circle cx="739" cy="85" r="42" fill="#DCE5F6"/><circle cx="757" cy="72" r="36" fill="#F7F9FC"/><circle cx="780" cy="125" r="4" fill="#7A95C4"/>
 </svg>

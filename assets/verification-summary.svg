@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="204" viewBox="0 0 840 204" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">프로젝트 검증과 제작 기록</title>
+<desc id="desc">2026년 8월 14일 프로젝트 기록 기준 UI 테스트 80개 통과, 화면 크기 5종 확인. 별도로 시로몽 저작권 등록 1건. 모든 테스트를 개인이 작성했다는 의미는 아닙니다.</desc>
+<rect x="1" y="1" width="838" height="202" rx="16" fill="#F7F9FC" stroke="#E3E9F2"/>
+<path d="M280 29V143M560 29V143" stroke="#DDE4EF"/>
+<g font-family="'Malgun Gothic','Segoe UI',sans-serif" text-anchor="middle">
+<g fill="#233B60" font-size="44" font-weight="700"><text x="140" y="72">80</text><text x="420" y="72">5</text><text x="700" y="72">1</text></g>
+<g fill="#405570" font-size="23" font-weight="600"><text x="140" y="113">UI 테스트 통과</text><text x="420" y="113">화면 크기 확인</text><text x="700" y="113">저작권 등록</text></g>
+<g fill="#5A6B82" font-size="18"><text x="140" y="145">프로젝트 실행 기록</text><text x="420" y="145">Home · 출석부</text><text x="700" y="145">시로몽</text></g>
+<text x="420" y="183" fill="#52627B" font-size="18">테스트 · 화면 확인: 2026.08.14 작업 기록 기준</text>
+</g></svg>
