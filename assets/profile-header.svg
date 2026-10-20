@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="180" viewBox="0 0 840 180" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">문재민 MUN JAEMIN</title><desc id="desc">Backend and Frontend</desc>
-<rect x="1" y="1" width="838" height="178" rx="18" fill="#F7F9FC" stroke="#E3E9F2"/>
-<g font-family="'Malgun Gothic','Segoe UI',sans-serif">
-<text x="32" y="65" fill="#18243B" font-size="44" font-weight="700">문재민</text>
-<text x="204" y="62" fill="#52627B" font-size="23" font-weight="500">MUN JAEMIN</text>
-<text x="34" y="126" fill="#405570" font-size="28" font-weight="500">Backend &amp; Frontend</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">문재민 MUN JAEMIN</title><desc id="desc">Java와 Spring 백엔드를 중심으로 프론트엔드와 UI도 구현합니다.</desc>
+<rect x="1" y="1" width="838" height="238" rx="20" fill="#EFF4FB" stroke="#DAE4F2"/>
+<g font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR','Segoe UI',sans-serif">
+<text x="38" y="83" fill="#182A44" font-size="52" font-weight="700">문재민</text>
+<text x="40" y="127" fill="#526B8E" font-size="25" font-weight="500">MUN JAEMIN</text>
+<text x="40" y="196" fill="#24476E" font-size="30" font-weight="600">Backend · Frontend · UI</text>
 </g>
-<circle cx="739" cy="85" r="42" fill="#DCE5F6"/><circle cx="757" cy="72" r="36" fill="#F7F9FC"/><circle cx="780" cy="125" r="4" fill="#7A95C4"/>
+<circle cx="731" cy="89" r="44" fill="#BED0EB"/><circle cx="750" cy="74" r="38" fill="#EFF4FB"/><circle cx="782" cy="141" r="4" fill="#6688BB"/>
 </svg>
