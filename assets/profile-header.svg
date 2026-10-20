@@ -1,17 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">문재민 — Backend &amp; Frontend Developer</title>
-  <desc id="description">Java와 Spring 백엔드부터 반응형 프론트엔드까지. UI 설계와 직접 만든 캐릭터 에셋을 함께 다루는 개발자.</desc>
-  <rect width="1200" height="340" rx="16" fill="#F7F8FA"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">문재민 MUN JAEMIN</title>
+  <desc id="desc">Java와 Spring 백엔드를 중심으로 프론트엔드와 UI를 구현합니다.</desc>
+  <rect x="1" y="1" width="1198" height="278" rx="20" fill="#F7F9FC" stroke="#E5EAF2"/>
   <g font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
-    <text x="64" y="60" font-size="13" font-weight="600" letter-spacing="3" fill="#64748B">MUN JAEMIN / DEVELOPER</text>
-    <text x="60" y="133" font-size="54" font-weight="700" fill="#172033">문재민<tspan dx="24" font-size="21" font-weight="400" fill="#64748B">kitturamiboiler</tspan></text>
-    <text x="64" y="187" font-size="30" font-weight="600" fill="#172033">Backend &amp; Frontend</text>
-    <text x="64" y="224" font-size="19" fill="#526075">데이터의 정합성부터, 사용자가 마주하는 화면까지.</text>
-    <path d="M64 259H1136" stroke="#DCE1E8"/>
-    <text x="64" y="299" font-size="14" fill="#526075">JAVA · SPRING</text>
-    <text x="256" y="299" font-size="14" fill="#526075">JAVASCRIPT · REACT</text>
-    <text x="502" y="299" font-size="14" fill="#526075">UI · FIGMA</text>
-    <text x="1136" y="299" text-anchor="end" font-size="13" fill="#64748B">NHN Academy AIoT 3기</text>
+    <text x="48" y="44" fill="#64748B" font-size="12" font-weight="600" letter-spacing="2.5">MUN JAEMIN</text>
+    <text x="45" y="109" fill="#18243B" font-size="48" font-weight="700">문재민</text>
+    <text x="48" y="154" fill="#42536B" font-size="20">백엔드를 중심으로, 프론트엔드와 UI도 만듭니다.</text>
+    <text x="48" y="185" fill="#738197" font-size="14">Java · Spring · JavaScript · React</text>
+    <path d="M48 213H1152" stroke="#E0E6EF"/>
+    <text x="48" y="246" fill="#536681" font-size="13">BACKEND / FRONTEND / UI</text>
+    <text x="1152" y="246" text-anchor="end" fill="#738197" font-size="13">kitturamiboiler</text>
   </g>
-  <rect x="1104" y="48" width="32" height="4" rx="2" fill="#4775DB"/>
+  <circle cx="1048" cy="102" r="62" stroke="#E2E8F3"/>
+  <circle cx="1048" cy="102" r="43" fill="#DDE6F7"/>
+  <circle cx="1067" cy="88" r="37" fill="#F7F9FC"/>
+  <circle cx="1093" cy="143" r="4" fill="#809AC9"/>
+  <circle cx="995" cy="66" r="2.5" fill="#A8B8D1"/>
 </svg>

@@ -1,4 +1,4 @@
-# 문재민 · MUN JAEMIN
+<img src="./assets/profile-header.svg" width="100%" alt="문재민 MUN JAEMIN — Java와 Spring 백엔드를 중심으로 프론트엔드와 UI를 구현합니다." />
 
 **Java · Spring 백엔드 개발을 중심으로, 프론트엔드와 UI도 구현합니다.**
 
