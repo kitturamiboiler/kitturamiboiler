@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1460" viewBox="0 0 840 1460" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">문재민 MUN JAEMIN 개발자 프로필</title>
+<desc id="desc">Java Spring 백엔드와 프론트엔드 개발 경험. OMAGOTCHI의 HUD 겹침과 조회 실패가 0명으로 표시되는 문제 해결. 백엔드의 이벤트 유실·중복 처리를 고려한 예방 설계. 2026년 8월 14일 프로젝트 기록 기준 테스트 80개 통과와 5개 화면 크기 확인. 직접 제작한 시로몽 저작권 등록 1건.</desc>
+<rect width="840" height="1460" fill="#FFFFFF"/>
+<g font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR','Segoe UI',sans-serif">
+<!-- Identity -->
+<text x="36" y="52" font-size="17" fill="#596A69" letter-spacing="1.5">MUN JAEMIN</text>
+<text x="32" y="121" font-size="44" font-weight="700" fill="#172B2B">문재민</text>
+<text x="36" y="168" font-size="21" fill="#324F4E">Java · Spring 백엔드, 프론트엔드와 UI.</text>
+<text x="36" y="207" font-size="17" fill="#657675">NHN Academy AIoT 3기 · Java Backend 과정 수료</text>
+<path d="M36 244H804" stroke="#BBCBC8"/>
+<!-- Selected work -->
+<text x="36" y="291" font-size="16" fill="#34685E" font-weight="700" letter-spacing="1.5">SELECTED WORK</text>
+<text x="34" y="337" font-size="28" font-weight="700" fill="#172B2B">OMAGOTCHI</text>
+<text x="802" y="333" text-anchor="end" font-size="17" fill="#657675">8인 팀 프로젝트</text>
+<text x="36" y="377" font-size="18" fill="#415A58">출석과 학습 기록을 캐릭터 성장으로 연결하는 서비스</text>
+<!-- Troubleshooting -->
+<text x="36" y="427" font-size="16" fill="#34685E" font-weight="700" letter-spacing="1.2">TROUBLESHOOTING</text>
+<text x="36" y="467" font-size="20" font-weight="700" fill="#172B2B">01  화면 크기마다 HUD가 겹치던 문제</text>
+<g font-size="17">
+<text x="36" y="504" fill="#34685E" font-weight="600">원인</text>
+<text x="98" y="504" fill="#415A58">닉네임·XP·채팅·도크가 서로 다른 기준으로 고정 배치</text>
+<text x="36" y="536" fill="#34685E" font-weight="600">해결</text>
+<text x="98" y="536" fill="#415A58">하단 HUD를 묶고, Grid·문서 흐름 기반으로 배치 구조 변경</text>
+</g>
+<path d="M36 568H804" stroke="#E4EBE7"/>
+<text x="36" y="610" font-size="20" font-weight="700" fill="#172B2B">02  조회 실패가 정상 값인 ‘0명’으로 보이던 문제</text>
+<g font-size="17">
+<text x="36" y="647" fill="#34685E" font-weight="600">원인</text>
+<text x="98" y="647" fill="#415A58">API 조회 실패 시 0명을 반환하는 fallback으로 상태가 가려짐</text>
+<text x="36" y="679" fill="#34685E" font-weight="600">해결</text>
+<text x="98" y="679" fill="#415A58">fallback 제거 후 로딩·빈 데이터·오류 상태를 분리</text>
+</g>
+<path d="M36 711H804" stroke="#E4EBE7"/>
+<text x="36" y="753" font-size="20" font-weight="700" fill="#172B2B">Backend  /  실패·중복을 예방하기 위한 구현</text>
+<g font-size="17" fill="#415A58">
+<text x="36" y="791">출결과 Outbox 이벤트를 같은 트랜잭션에 기록하고 발송 실패 재처리</text>
+<text x="36" y="823">수신 영수증·XP 원장·행 잠금·유니크 제약으로 재수신과 동시 요청 처리</text>
+<text x="36" y="855">출결 정책 분리와 Clock 주입으로 정시·지각·타임존 경계 테스트</text>
+</g>
+<g transform="translate(0 300)">
+<!-- Evidence band, no cards -->
+<rect x="36" y="616" width="768" height="171" fill="#F1F6F3"/>
+<g fill="#244E45" font-size="38" font-weight="700">
+<text x="62" y="680">80</text><text x="322" y="680">5</text><text x="582" y="680">1</text>
+</g>
+<g fill="#324F4E" font-size="17" font-weight="600">
+<text x="62" y="718">테스트 통과 기록</text><text x="322" y="718">화면 크기 확인</text><text x="582" y="718">저작권 등록</text>
+</g>
+<g fill="#657675" font-size="16">
+<text x="62" y="754">Vitest · 21개 파일</text><text x="322" y="754">Home · 출석부</text><text x="582" y="754">직접 만든 시로몽</text>
+</g>
+<g fill="#657675" font-size="16">
+<text x="36" y="821">테스트·화면: 2026.08.14 프로젝트 기록. 개인 작성 테스트 수가 아닙니다.</text>
+<text x="36" y="851">정적 통합 확인 범위이며, 실서비스 전체 E2E·사용성 검증과 구분합니다.</text>
+</g>
+<path d="M36 886H804" stroke="#DBE4E0"/>
+<!-- Secondary work -->
+<text x="36" y="927" font-size="18" font-weight="700" fill="#172B2B">Mini Dooray</text>
+<text x="236" y="927" font-size="17" fill="#415A58">프로젝트·멤버·태그·마일스톤 4개 API 영역 구현</text>
+<text x="36" y="967" font-size="18" font-weight="700" fill="#172B2B">Flip-Bot</text>
+<text x="236" y="967" font-size="17" fill="#415A58">Python 경제 시뮬레이션 봇 개발 · Railway 배포</text>
+<!-- Tools -->
+<text x="36" y="1024" font-size="17" fill="#34685E" font-weight="700">사용한 기술</text>
+<text x="36" y="1062" font-size="17" fill="#415A58">Java · Spring · JPA · PostgreSQL · JavaScript · React · Thymeleaf</text>
+<text x="36" y="1097" font-size="17" fill="#415A58">JUnit 5 · Vitest · Storybook · Git · Figma · Aseprite</text>
+<text x="36" y="1140" font-size="15" fill="#657675">시로몽 제C-2026-040776호 · 직접 제작한 에셋의 재사용은 사전 문의</text>
+</g>
+</g>
+<!-- Small personal moon -->
+<circle cx="744" cy="93" r="37" fill="#C9DACF"/>
+<circle cx="759" cy="80" r="32" fill="#FFFFFF"/>
+<circle cx="789" cy="137" r="3.5" fill="#8DAE9F"/>
+</svg>
